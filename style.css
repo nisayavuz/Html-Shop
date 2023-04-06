@@ -1,0 +1,37 @@
+.anasayfa{
+    text-align: center;
+    margin: auto;
+    padding: 5%;
+}
+
+p {
+    font-size: 130%;
+}
+
+.urunlistesi {
+    text-align: center;
+    margin: auto;
+    list-style-position: inside;
+}
+
+ol li {
+    padding: 30px;
+    font-weight: bold;
+    font-size: 110%;
+}
+
+ul li {
+    padding: 10px;
+    font-weight: bold;
+    list-style: inside;
+}
+a {
+    color: hotpink;
+    padding: 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    transition-duration: 0.5s;
+}
